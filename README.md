@@ -29,18 +29,14 @@ This book is for:
 
 ```
 ├── README.md                 # This file — project overview
-├── manuscript/               # Full manuscript drafts
-│   └── draft-001.md         # Current working draft
-├── chapters/                 # Individual chapter files
-│   ├── 01-introduction.md
-│   ├── 02-the-decision.md
-│   └── (more to come)
-├── outline/                  # Planning and outlining
-│   ├── structure.md         # Book architecture
-│   └── chapter-notes.md     # Ideas per chapter
-├── research/                 # Research, interviews, references
-│   ├── giants-we-stole-from.md
-│   └── non-traditional-stories.md
+├── manuscript/               # Full manuscript drafts (later)
+├── chapters/                 # Individual chapters (after structure emerges)
+├── stories/                  # ⭐ START HERE — Raw story collection
+│   └── raw-stories.md       # Brain dump document
+├── outline/                  # Planning (structure will emerge)
+│   └── structure.md         # Placeholder — will build from stories
+├── research/                 # Research, references
+│   └── giants-we-stole-from.md
 └── meta/                     # Meta documents
     ├── writing-schedule.md
     └── progress-log.md
